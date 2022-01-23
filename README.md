@@ -1,8 +1,14 @@
-### I'm a game developer who loves to experiment with new stuff 🤓👾 
+### Hi there! 👋 i'm Peter
+#### I'm a game developer who loves to experiment with new stuff 🤓👾 
 
-- "Nothing is better than a rainy day, coffee and some lines of code in your screen" ☕💻
+ I'm currently very interested in computer chess programs ♟💻
 
-I'm currently very interested in computer chess programs ♟💻♔
+⚡ Little details about me:
+- My favorite fast-food is Pizza 🍕
+- I like rainy days while i'm coding and driking some coffee 💻☕💙
+
+
+
 
 <!--
 **pedro15/pedro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
