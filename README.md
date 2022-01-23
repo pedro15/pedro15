@@ -1,4 +1,8 @@
-### Hi there 👋
+### I'm a game developer who loves to experiment with new stuff 🤓👾 
+
+- "Nothing is better than a rainy day, coffee and some lines of code in your screen" ☕💻
+
+I'm currently very interested in computer chess programs ♟💻♔
 
 <!--
 **pedro15/pedro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
