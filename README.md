@@ -1,6 +1,6 @@
-### Hi there! 👋
-#### I'm a game developer who loves to experiment with stuff 💻👾 
+### I'm a game developer who loves to experiment with stuff 💻👾
 
-⚡ Weekends are the best days to try something new ☕
-
-💫 "A delayed software is eventually good, a rushed one is forever bad..."
+⚡ few things about me:
+- I love pizza 🍕
+- I love to code on rainy days
+- I hate when i find a bug hard to solve 🐞
