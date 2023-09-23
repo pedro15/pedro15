@@ -1,6 +1,8 @@
-### I'm a game developer who loves to experiment with stuff 💻👾
+## Game developer who loves to play around with code on weekends ☕💻
 
-⚡ few things about me:
-- I love pizza 🍕
-- I love to code on rainy days 🌧
-- I hate when i find a bug hard to solve 🐞
+Few things about me:
+- 🎮 Apex legends player on my free time
+- 💻 I love to explore new technologies on weekends
+- 🍕 Can't survive witout pizza
+- ♟️ Developed some interest on chess programs🕹️🎰
+- ☕ Coffee is the best relaxant
