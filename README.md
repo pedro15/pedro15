@@ -1,4 +1,4 @@
-## Hello! i'm Pedro! 🖖
+## Hello! i'm Pedro! 👋
 i'm a Game developer who loves to play around with code on weekends ☕💻
 
 Few things about me:
