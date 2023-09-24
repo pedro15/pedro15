@@ -1,4 +1,5 @@
-## Game developer who loves to play around with code on weekends ☕💻
+## Hello! i'm Pedro! 🖖
+i'm a Game developer who loves to play around with code on weekends ☕💻
 
 Few things about me:
 - 🎮 Apex legends player on my free time
