@@ -1,9 +1,7 @@
-## Hello! i'm Pedro! 👋
-i'm a Game developer who loves to play around with code on weekends ☕💻
+## Hello There!! 👋
+i'm a Game developer who loves to experiment around with code on weekends ☕💻
 
-few things about me:
-- 🎮 I enjoy more playing videogames than going to a Party
-- 💻 I love to explore new technologies
-- 🍕 Can't survive without pizza
-- ♟️ got some interest on chess programs🕹️🎰
-- ☕ A coffee drink is the best thing that you can get in the morning
+- I like to experiment with new techologies sometimes 💻
+- Reciently i got interest on Chess Programs and AI ♟️
+- I love clean code as much i love coffee ☕
+- Experienced Old-School Unity Developer with more than 5 years of experience 🎮💻
